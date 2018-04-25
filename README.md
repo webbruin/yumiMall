@@ -1,2 +1,0 @@
-# yumiMall
-yumiMall-project
